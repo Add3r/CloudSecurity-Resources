@@ -4,14 +4,17 @@ Archiving resources tailored for cloud security
 General: https://github.com/Funkmyster/awesome-cloud-security
 
 Azure: 
-  https://github.com/Azure/Azure-Network-Security
-  https://github.com/kmcquade/awesome-azure-security (Tooling)
+
+1. https://github.com/Azure/Azure-Network-Security
+2. https://github.com/kmcquade/awesome-azure-security (Tooling)
   
 GCP:
-  https://github.com/GoogleCloudPlatform/security-analytics
-  https://github.com/doitintl/secure-gcp-reference (Checklist)
+
+1. https://github.com/GoogleCloudPlatform/security-analytics
+2. https://github.com/doitintl/secure-gcp-reference (Checklist)
 
 AWS:
-  https://github.com/jassics/awesome-aws-security
-  https://github.com/toniblyx/my-arsenal-of-aws-security-tools (Tooling)
+  
+1. https://github.com/jassics/awesome-aws-security
+2. https://github.com/toniblyx/my-arsenal-of-aws-security-tools (Tooling)
 
