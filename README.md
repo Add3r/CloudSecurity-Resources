@@ -15,6 +15,7 @@ GCP:
 
 AWS:
   
-1. https://github.com/jassics/awesome-aws-security
-2. https://github.com/toniblyx/my-arsenal-of-aws-security-tools (Tooling)
+1. https://attackdefense.com/listing?labtype=aws-cloud-security-bootcamp&subtype=aws-cloud-security-bootcamp-recordings
+2. https://github.com/jassics/awesome-aws-security
+3. https://github.com/toniblyx/my-arsenal-of-aws-security-tools (Tooling)
 
