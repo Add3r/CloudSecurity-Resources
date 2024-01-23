@@ -19,3 +19,10 @@ AWS:
 2. https://github.com/jassics/awesome-aws-security
 3. https://github.com/toniblyx/my-arsenal-of-aws-security-tools (Tooling)
 
+Related CTFs:
+
+1. https://github.com/BishopFox/cloudfoxable
+2. https://github.com/RhinoSecurityLabs/cloudgoat
+3. https://github.com/BishopFox/iam-vulnerable
+4. http://flaws.cloud/
+5. http://flaws2.cloud/
