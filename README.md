@@ -26,3 +26,7 @@ Related CTFs:
 3. https://github.com/BishopFox/iam-vulnerable
 4. http://flaws.cloud/
 5. http://flaws2.cloud/
+
+Books:
+
+1. https://nostarch.com/azure
